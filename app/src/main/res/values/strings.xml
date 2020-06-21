@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Word_City</string>
+    <string name="greetings">Welcome to Word City</string>
+    <string name="username_hint">Type your username</string>
+    <string name="play">Play Game</string>
+    <string name="scoreboard">Show Scoreboard</string>
+    <string name="congratulations">CONGRATULATIONS!</string>
+    <string name="your_score">Score</string>
+    <string name="your_wrong_attempts">Wrong Attempts</string>
+    <string name="completion_time">Crossword Completion Time</string>
+    <string name="back_to_games">Back To Games</string>
+    <string name="next_game">Next Game</string>
+    
+    <string name="level_1">Level 1</string>
+    <string name="level_2">Level 2</string>
+    <string name="level_3">Level 3</string>
+
+    <string name="game1">Game 1</string>
+    <string name="game2">Game 2</string>
+    <string name="game3">Game 3</string>
+
+    <string name="game4">Game 4</string>
+    <string name="game5">Game 5</string>
+    <string name="game6">Game 6</string>
+
+</resources>
